@@ -144,7 +144,7 @@ body {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  gap: 1rem;
+  gap: 1.2rem;
 }
 
 .jasa__desc {
@@ -201,7 +201,7 @@ body {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  gap: 1rem;
+  gap: 1.2rem;
 }
 
 /*=============== HOME ===============*/
